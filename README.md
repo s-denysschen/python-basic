@@ -498,8 +498,8 @@ Python supports several ways of writing strings:
 * You can use either single or double quotes for short strings. If your string contains a quote character, you can use the other type of quote to define it:
 
 ```python
-# This string contains a single quote
-string = 'It's a beautiful day.'
+# This string contains a double quote
+string = "It's a beautiful day."
 ```
 
 Triple quotes are used for multiline strings:
